@@ -1,0 +1,83 @@
+//////////////Rolling///////////////////////
+
+Melhor configuração para s_d11 :
+   lag_window increment Runs ntree mtry
+31          7         7   30   100    2
+→ Melhor NMAE: 7.680
+
+
+
+Melhor configuração para s_d12 :
+   lag_window increment Runs ntree mtry
+85          7         7   30   100    4
+→ Melhor NMAE: 7.651
+
+
+
+Melhor configuração para s_e11 :
+   lag_window increment Runs ntree mtry
+87         30         7   30   100    4
+→ Melhor NMAE: 6.575
+
+
+
+Melhor configuração para s_e12 :
+   lag_window increment Runs ntree mtry
+23         15        14   10   100    2
+→ Melhor NMAE: 6.869
+
+
+
+
+Melhor configuração para s_b11 :
+   lag_window increment Runs ntree mtry
+41         15        14   10   200    2
+→ Melhor NMAE: 7.296
+
+
+
+
+Melhor configuração para s_b12 :
+   lag_window increment Runs ntree mtry
+37          7         7   10   200    2
+→ Melhor NMAE: 1.796
+
+
+////////////////////Growing////////////////////////
+
+
+
+Melhor configuração para s_d11 :
+   lag_window increment Runs ntree mtry
+19          7         7   10   100    2
+→ Melhor NMAE: 9.070
+
+
+
+
+Melhor configuração para s_d12 :
+    lag_window increment Runs ntree mtry
+130          7        14   10   100    6
+→ Melhor NMAE: 9.041
+
+
+
+Melhor configuração para s_e11 :
+   lag_window increment Runs ntree mtry
+40          7        14   10   200    2
+→ Melhor NMAE: 10.354
+
+
+
+
+Melhor configuração para s_e12 :
+    lag_window increment Runs ntree mtry
+128         15         7   10   100    6
+→ Melhor NMAE: 6.642
+
+
+
+Melhor configuração para s_b12 :
+   lag_window increment Runs ntree mtry
+38         15         7   10   200    2
+→ Melhor NMAE: 2.938

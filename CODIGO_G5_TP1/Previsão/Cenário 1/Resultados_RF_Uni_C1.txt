@@ -1,0 +1,53 @@
+=== Coluna: s_d11 ===
+
+Métricas:
+ MAE   = 67.764
+ NMAE  = 26.063
+ RMSE  = 76.260
+ RRSE  = 96.510
+
+
+=== Coluna: s_d12 ===
+
+Métricas:
+ MAE   = 54.529
+ NMAE  = 39.230
+ RMSE  = 69.799
+ RRSE  = 154.086
+
+
+=== Coluna: s_e11 ===
+
+Métricas:
+ MAE   = 104.725
+ NMAE  = 59.167
+ RMSE  = 111.092
+ RRSE  = 157.155
+
+
+=== Coluna: s_e12 ===
+
+Métricas:
+ MAE   = 25.113
+ NMAE  = 45.660
+ RMSE  = 31.243
+ RRSE  = 162.255
+
+
+=== Coluna: s_b11 ===
+
+Métricas:
+ MAE   = 96.089
+ NMAE  = 24.265
+ RMSE  = 128.611
+ RRSE  = 113.370
+
+
+=== Coluna: s_b12 ===
+
+
+Métricas:
+ MAE   = 24.225
+ NMAE  = 22.854
+ RMSE  = 31.904
+ RRSE  = 83.674
