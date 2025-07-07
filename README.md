@@ -7,7 +7,6 @@ AI-driven demand forecasting and logistics optimization system for Favorita Stor
 - [About](#about)  
 - [Features](#features)  
 - [Methodology](#methodology)  
-- [Project Structure](#project-structure)  
 - [Getting Started](#getting-started)  
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
